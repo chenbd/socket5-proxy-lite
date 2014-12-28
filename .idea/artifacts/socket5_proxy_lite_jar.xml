@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact name="socket5-proxy-lite:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/socket5_proxy_lite_jar</output-path>
+    <root id="root">
+      <element id="archive" name="socket5-proxy-lite.jar">
+        <element id="module-output" name="socket5-proxy-lite" />
+      </element>
+      <element id="directory" name="libs">
+        <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-api:2.1" />
+        <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-core:2.1" />
+        <element id="library" level="project" name="Maven: org.apache.logging.log4j:log4j-slf4j-impl:2.1" />
+        <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.7" />
+      </element>
+    </root>
+  </artifact>
+</component>
